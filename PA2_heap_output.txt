@@ -1,0 +1,8 @@
+Min Heap:
+Size = 1970
+Min = 4
+Max = 99957
+Max Heap:
+Size = 1970
+Min = 4
+Max = 99957
